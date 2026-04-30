@@ -1,0 +1,9 @@
+caxa-parametric-automation/
+├── caxa_parametric_automation.py   # 核心脚本
+├── params/                         # 参数文件存放目录（自定义）
+│   ├── circle.json
+│   ├── rect.json
+│   └── bolt.json
+├── output/                         # 生成的图纸保存目录（自动创建）
+├── caxa_auto.log                   # 运行日志
+└── README.md
